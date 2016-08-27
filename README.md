@@ -1,2 +1,4 @@
-### freshslide
-Fresh Slide-in menu - slides in with style
+### FreshSlide
+Slide in and out with style.
+
+[Demo on Surge](http://corbtastic.freshslide.surge.sh)
